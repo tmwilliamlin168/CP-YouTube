@@ -1,5 +1,7 @@
 # I'm sending you this because your request takes more than one minute for me to process.
 
+1 minute from 100 people adds up to a lot, especially when some of these requests are debugging code, which takes up to 20 minutes per person.
+
 # Or, your question has already been addressed in one of my videos.
 
 I made videos to answer questions, not for people to ask them again.
