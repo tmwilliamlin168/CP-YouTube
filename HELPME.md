@@ -2,13 +2,13 @@
 
 1 minute from 100 people adds up to a lot, especially when some of these requests are debugging code, which takes up to 20 minutes per person.
 
+I need to do practice myself, I need to do contests, I make videos to help the community (unlike most other people!), and I have my own personal life. Don't be disrespectful of my time.
+
 # Or, your question has already been addressed in one of my videos.
 
 I made videos to answer questions, not for people to ask them again.
 
 # I'm busy, I can't help you, and I never will. I have no obligation to process your request.
-
-I'm simply too busy and I don't want to process your request.
 
 # You are selfish and stealing from others
 
